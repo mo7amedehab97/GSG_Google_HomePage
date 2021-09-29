@@ -12,7 +12,6 @@ a {
 }
 header {
     height: 50px;
-   padding-left: ;
 }
 
 header div a {
@@ -30,6 +29,8 @@ input[type=search] {
     width: 480px;
     height: 34px;
     border-radius: 50px;
+    outline: none;
+    border: 1px solid gray;
 }
 section div img{
     position: absolute;
